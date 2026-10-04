@@ -1,1 +1,0 @@
-py .\eolymp_export.py --token ekey-a8le2bks0ch7kh9nqh9mnh0f4ds
