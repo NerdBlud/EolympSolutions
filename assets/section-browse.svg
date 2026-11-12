@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="66" viewBox="0 0 720 66" role="img" aria-labelledby="title">
+  <title id="title">Browse solutions</title>
+  <defs>
+    <linearGradient id="panel" x2="100%" y2="100%">
+      <stop stop-color="#291821"/>
+      <stop offset="1" stop-color="#191219"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="718" height="64" rx="12" fill="url(#panel)" stroke="#995776" stroke-width="1.25"/>
+  <path d="M24 33H184 M536 33H696" fill="none" stroke="#995776" stroke-width="1.25"/>
+  <circle cx="206" cy="33" r="14" fill="#ef9fbd"/>
+  <g transform="translate(196.4 23.4) scale(.8)" fill="none" stroke="#381a2b" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h16v13H4zM3 4h18v3H3zM9 11h6"/></g>
+  <text x="374" y="43" fill="#ffccdf" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700" font-style="italic">Browse solutions</text>
+</svg>
